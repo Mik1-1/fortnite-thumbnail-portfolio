@@ -19,5 +19,3 @@ The website features a dynamic before/after comparison system to highlight the t
 - HTML5
 - CSS3 (animations and transitions)
 - Vanilla JavaScript
-
-## Project Structure
